@@ -11,7 +11,7 @@
 		<relativePath>../rom-baslik/pom.xml</relativePath>
 	</parent>
 	<artifactId>rom-base</artifactId>
-	<version>${romversion}</version>
+	<version>5.0.0</version>
 
 	<name>rom-base</name>
 
@@ -20,13 +20,13 @@
 		<dependency>
 			<groupId>com.bilgidoku</groupId>
 			<artifactId>rom-min</artifactId>
-			<version>${romversion}</version>
+			<version>5.0.0</version>
 		</dependency>
 
 		<dependency>
 			<groupId>com.bilgidoku</groupId>
 			<artifactId>rom-min-java</artifactId>
-			<version>${romversion}</version>
+			<version>5.0.0</version>
 		</dependency>
 	
 		<dependency>
